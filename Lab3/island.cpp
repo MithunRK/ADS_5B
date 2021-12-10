@@ -176,4 +176,3 @@ int main(void)
 		<< countIslands(a) << endl;
 }
 
-// This code is contributed by ankush_953
