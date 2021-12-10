@@ -1,5 +1,4 @@
-// C++ program to find number of islands
-// using Disjoint Set data structure.
+
 #include <bits/stdc++.h>
 using namespace std;
 
